@@ -1,0 +1,48 @@
+// DM Environment file for Multivernum.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Icons"
+#define FILE_DIR "Icons/Human"
+#define FILE_DIR "Icons/Monsters"
+#define FILE_DIR "Icons/Objects"
+#define FILE_DIR "Icons/Objects/Decorations"
+#define FILE_DIR "Icons/Objects/Decorations/Floor"
+#define FILE_DIR "Icons/Objects/Decorations/Wall"
+#define FILE_DIR "Icons/Objects/Overworld"
+#define FILE_DIR "Icons/Objects/Walls"
+#define FILE_DIR "Resources"
+#define FILE_DIR "Resources/32x32"
+#define FILE_DIR "Resources/54x54"
+#define FILE_DIR "Resources/Silmar"
+#define FILE_DIR "Resources/Silmar/beings"
+#define FILE_DIR "Resources/Silmar/items"
+#define FILE_DIR "Resources/Silmar/monsters"
+#define FILE_DIR "Resources/Silmar/player"
+#define FILE_DIR "Resources/Silmar/terrain"
+#define FILE_DIR "Resources/Silmar/tiles"
+#define FILE_DIR "Resources/SysPics"
+#define FILE_DIR "Resources/Terrain"
+#define FILE_DIR "Resources/Work"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Multivernum.dm"
+#include "Code\_Defines.dm"
+#include "Code\TestObjects.dm"
+#include "Code\Components\Component.dm"
+#include "Code\Components\Brains\MobBrain.dm"
+#include "Code\Turfs\Turf.dm"
+#include "Icons\Objects\Notes.dm"
+#include "Maps\TestMap.dmm"
+// END_INCLUDE
+
