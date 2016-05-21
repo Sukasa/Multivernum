@@ -1,4 +1,5 @@
 *.rsc
+*.dmb
 *.lk
 *.int
 Resources/*

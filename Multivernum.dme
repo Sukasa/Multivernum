@@ -16,19 +16,8 @@
 #define FILE_DIR "Icons/Objects/Decorations/Wall"
 #define FILE_DIR "Icons/Objects/Overworld"
 #define FILE_DIR "Icons/Objects/Walls"
-#define FILE_DIR "Resources"
-#define FILE_DIR "Resources/32x32"
-#define FILE_DIR "Resources/54x54"
-#define FILE_DIR "Resources/Silmar"
-#define FILE_DIR "Resources/Silmar/beings"
-#define FILE_DIR "Resources/Silmar/items"
-#define FILE_DIR "Resources/Silmar/monsters"
-#define FILE_DIR "Resources/Silmar/player"
-#define FILE_DIR "Resources/Silmar/terrain"
-#define FILE_DIR "Resources/Silmar/tiles"
-#define FILE_DIR "Resources/SysPics"
-#define FILE_DIR "Resources/Terrain"
-#define FILE_DIR "Resources/Work"
+#define FILE_DIR "Icons/Objects/Walls/Doors"
+#define FILE_DIR "Icons/Terrain"
 // END_FILE_DIR
 
 // BEGIN_PREFERENCES
@@ -38,11 +27,12 @@
 // BEGIN_INCLUDE
 #include "Multivernum.dm"
 #include "Code\_Defines.dm"
-#include "Code\TestObjects.dm"
 #include "Code\Components\Component.dm"
 #include "Code\Components\Brains\MobBrain.dm"
+#include "Code\Objects\Doors.dm"
+#include "Code\Objects\Walls\Walls.dm"
+#include "Code\Turfs\Flats.dm"
 #include "Code\Turfs\Turf.dm"
 #include "Icons\Objects\Notes.dm"
-#include "Maps\TestMap.dmm"
 // END_INCLUDE
 
