@@ -1,0 +1,115 @@
+"aa" = (/turf/RockWall,/area)
+"ab" = (/turf/Flats/Rock,/area)
+"ac" = (/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"ad" = (/turf/Flats/Grass,/area)
+"ae" = (/turf/Flats/Wetlands,/area)
+"af" = (/turf/Flats/Mud,/area)
+"ag" = (/obj/Tree{tag = "icon-Tree5"; icon_state = "Tree5"},/turf/Flats/Mud,/area)
+"ah" = (/obj/Tree{tag = "icon-Tree2"; icon_state = "Tree2"},/turf/Flats/Grass,/area)
+"ai" = (/obj/Tree,/turf/Flats/Grass,/area)
+"aj" = (/obj/Tree{tag = "icon-Tree2"; icon_state = "Tree2"},/turf/Flats/Wetlands,/area)
+"ak" = (/obj/Decoration/Floor/Brazier,/turf/Flats/Wetlands,/area)
+"al" = (/obj/Wall/Stone,/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"am" = (/obj/Door/Open/Stone,/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"an" = (/obj/Wall/Stone,/turf/Flats/Wetlands,/area)
+"ao" = (/obj/Wall/Wood,/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"ap" = (/obj/Wall/Wood,/obj/Storage/Crate{tag = "icon-Crates2 (NORTH)"; icon_state = "Crates2"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"aq" = (/obj/Decoration/Floor/Remains{tag = "icon-SkullPile (NORTH)"; icon_state = "SkullPile"},/turf/Flats/Rock,/area)
+"ar" = (/obj/Wall/Wood,/obj/Decoration/Floor/Bookcase,/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"as" = (/obj/Storage/Crate{tag = "icon-Crates3 (NORTH)"; icon_state = "Crates3"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"at" = (/obj/Decoration/Floor/Table,/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"au" = (/obj/Storage/Crate{tag = "icon-Crate6 (NORTH)"; icon_state = "Crate6"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"av" = (/obj/Storage/Crate{tag = "icon-Crate3 (NORTH)"; icon_state = "Crate3"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"aw" = (/obj/Wall/Wood,/obj/Storage/Crate{tag = "icon-Crates1 (NORTH)"; icon_state = "Crates1"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"ax" = (/obj/Decoration/Floor/Bed{tag = "icon-Bed4a (EAST)"; icon_state = "Bed4a"; dir = 4},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"ay" = (/obj/Decoration/Floor/Bed{tag = "icon-Bed4b (EAST)"; icon_state = "Bed4b"; dir = 4},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"az" = (/obj/Storage/Barrel{tag = "icon-Barrels (NORTH)"; icon_state = "Barrels"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"aA" = (/obj/Door/Secret/Wood,/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"aB" = (/obj/Decoration/Floor/TownDecorations/Campfire{tag = "icon-Campfire (EAST)"; icon_state = "Campfire"; dir = 4},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"aC" = (/obj/Decoration/Floor/Table{tag = "icon-Table9 (NORTH)"; icon_state = "Table9"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"aD" = (/obj/Wall/Stone,/turf/Flats/Rock,/area)
+"aE" = (/obj/Door/Secret/Stone,/turf/Flats/Rock,/area)
+"aF" = (/obj/Decoration/Floor/Rack{tag = "icon-Arms3 (NORTH)"; icon_state = "Arms3"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"aG" = (/turf/Flats/Wetlands,/obj/Decoration/Floor/TownDecorations/Grave,/turf/Flats/Dirt,/area)
+"aH" = (/turf/Flats/Wetlands,/turf/Flats/Dirt,/area)
+"aI" = (/turf/Flats/Rock{tag = "icon-Blood1"; icon_state = "Blood1"},/area)
+"aJ" = (/obj/Storage/Chest{tag = "icon-Chest3 (NORTH)"; icon_state = "Chest3"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"aK" = (/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"aL" = (/obj/Wall/Stone,/turf/Flats/Grass,/area)
+"aM" = (/obj/Decoration/Floor/Brazier,/turf/Flats/Grass,/area)
+"aN" = (/obj/Decoration/Floor/Brazier,/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"aO" = (/obj/Decoration/Floor/TownDecorations/Well,/turf/Flats/Dirt,/area)
+"aP" = (/obj/Tree{tag = "icon-Tree5"; icon_state = "Tree5"},/turf/Flats/Wetlands,/area)
+"aQ" = (/turf/Flats/Rock{tag = "icon-Blood3"; icon_state = "Blood3"},/area)
+"aR" = (/turf/Flats/Rock{tag = "icon-Blood6"; icon_state = "Blood6"},/area)
+"aS" = (/turf/Flats/Rock{tag = "icon-Blood8"; icon_state = "Blood8"},/area)
+"aT" = (/obj/Storage/Chest,/turf/Flats/Rock,/area)
+"aU" = (/turf/Flats/Rock,/turf/Flats/Water{tag = "icon-Water2"; icon_state = "Water2"},/area)
+"aV" = (/turf/Flats/Rock,/turf/Flats/Water{tag = "icon-Water3"; icon_state = "Water3"},/area)
+"aW" = (/obj/Decoration/Floor/Remains{tag = "icon-SkullPile (NORTH)"; icon_state = "SkullPile"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"aX" = (/turf/Flats/Water{tag = "icon-Water3"; icon_state = "Water3"},/area)
+"aY" = (/turf/Flats/Water,/area)
+"aZ" = (/obj/MapMarker/PlayerStart,/turf/Flats/Wetlands,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaabacacaaaaacadadadadadadadadadadaeaeaeaeaeafafafafafafaeaeaeae
+aaaaaaaaaaaaaaaaaaaaababacacabacadadadadadadadadadaeaeaeaeaeafafafafagafafaeaeae
+aaaaaaaaaaaaaaaaaaaaabababacacaaacadadadadadadadadahaeaeaeaeaeaeafafafafafafafae
+aaaaaaaaaaaaaaaaaaaaaaabababacaaacadadadahadadadadadaeaeaeaeaeaeaeafafafafafafae
+aaaaaaaaaaaaaaaaaaaaaaaaababababacacaiadadadadadadadadaeaeaeaeaeajaeaeaeafagafaf
+aaaaaaaaaaaaaaaaaaaaaaaaabacabaaaaacadadadadadadadadaeajaeaeaeaeaeaeaeaeaeafafae
+aaaaaaaaaaaaaaaaaaaaaaabacacaaaaaaadadadadadadadadadaeaeaeaeaeaeaeaeaeaeaeafafae
+aaaaaaaaaaaaaaaaaaabababacabaaacacadadadadadadadadadaeaeaeaeaeaeaeaeaeaeaeaeafae
+aaaaaaabaaaaaaaaaaababababacaaaaacadadahadadadadadaeakaeakaeaeaeaeafaeaeajaeaeae
+aaabababababaaaaabababaaabacacaaacadadadalalalalalalalamalalalalanafaeaeaeaeaeae
+aaaaabababababababababababacacadaiadadadalaoaoaoapaoaoacaoapaoaoanafaeaeaeaeaeae
+aaaaabababaaaqabababaaababacacadadadadadalaracacacacasacacacacaoanafafaeaeaeaeae
+aaaaababababababababababababaaacadadadadalaracatacacauacacacavaoanafafaeaeaeaeae
+aaababababababababaaababababaaaaadadahadalawacacacasacacacacaxaoanafafaeaeaeaeae
+aaabababaaaaababababababacacaaaaadadadadalaoacacacacasacacacayaoanafafafaeaeajae
+aaabababaaaaaaabababacacacacacaaadadadadalaoacacacacazacacacavaoanafafafaeaeaeae
+aaaaabababaaaaababababacacacaaadadadadadalaoaoaoacaoaoaoaAaoaoaoanafafafagaeaeae
+aaaaabababaaaaaaaaaaaaaaacacacadadadadadalaoaoaoamaoaoaoaAaoaoaoanafafafafaeaeae
+aaaaaaabababaaaaaaaaaaaaacacacadadadadadalaoacacacacaBaCacavacaoanafafafafaeaeae
+aaaaaaaDaEaaaaaaaaaaaaaaacacacadadadadadalawacacacacacacacacacaoanaeafafafaeaeae
+aaaaaaabababaaaaaaaaaaaaacacaaadaiadadadalawacacacacataFacacacaoanaeaeafafaeaeae
+aaaaaaababababaaaaaaaaaaacaaaaadadadadadalaoazacacacacacacacacaoanaeaGaHaeaeaeae
+aaaaaIabababababaaaaaaaaacacacadadadadadalaoaJacacacacacacavacaoanaeajaeaeaeaeae
+aaaaababababababaaaaaaaaacacacadadadahadalaoaoaoaoacaoaoaoaoaoaoanaeaeaeaeaeaeae
+aKaKaKaKabaaababaaaaaaaaaaacacadadadadadaLaLaLaLalamalaLanananananaeaeaeaeaeaeae
+aKaKaKaKababababaaaaaaaaaaacacadadadadadadadadadaMadaMadaeaeaeaeaeaeaeaeaeaeaeae
+aKaKaaaNaKabababaaaaaaaaaaaaacabaaadadahadadadadahadadaeaeaeaeaeaeaeaeaeafaeaeae
+aKaKaKaKaKabababaaaaaaaaaaaaacabaaaaadadadadadaOadadadaeaeaeaeaeajaeaeaPafaeaeae
+aKaKaKaKaKabaQabaaaaaaaaaaaaacacaaaaadadadadadadadadadaeaeaeaeaeaeaeaeafafaeaeae
+aKaKaKaKaKabababaaaaaaaaaaaaacacacadadadadadadadadadaeaeaeaeaeaeaeaeaeafafafaeae
+aKaKaKaKababaIabaaaaaaaaaaaaabacabaaaaadadadadadadadaeaeaeaeaeaeaeaeaeafafafaeae
+aKaKaKaNabababababaaaaaaaaaaaaaaaaaaadadadahadadadadaeaeaeaeaeaeaeaeaeafafafaeae
+aKaKaKaKabaQaRaSabaaaaaaaaaaaaaaaaaaadadadadadadadadaeaeaeaeaeaeaeaeaeaeafafafae
+aKaKaKaaabababababaaaaaaaaaaaaaaaaaaaaadadadadadadadadaeaeaeaeaeaeaeaeaeaeafafaf
+aKaKaaaaaIabaaababaaaaaaaaaaaaaaaaaaaaadadadadadadadadadaeaeaeaeaeaeaeaeaeafafae
+aKaaaaaaabababababaaaaaaaaaaaaaaaaaaadadadadadadadadadadadaeaeaeaeaeaeaeaeafafae
+aaaaaaaaabababababaaaaaaaaaaaaaaacacadahadadadadadadadadadadaeaeaeajaeaeaeafagae
+aaaaaaaaabababaQabaaaaaaaaaaaaaaacadadadadadadadadadadadahaeaeaeaeaeaeaeaeaeaeae
+aaaaaaaaababaSabababaaaaaaaaaaaaacadadadadadaiadadadadadaeaeaeaeaeaeaeaeaeaeaeae
+aaaaaaaaaaabababababaaaaaaaaaaaaacadadadadadadadadadadadaeaeaeaeaeaeaeaeaeaeaeae
+aaaaaaaaaaabababababaaaaaaaaaaaaacaaaaadadadadadadadadadaeaeaeaeaeaeaeaeaeaeaeae
+aaaaaaaaaaaaababababaaaaaaaaaaaaacaaaaaiadadadadadadadadaeaeaeaeaeaeaeaeaeaeaeae
+aaaTabaaaaaaababababababaaaaaaaaacadadadadadadadadadadadaeaeaeaeaeaeaeaeaeaeaeae
+aaaUababaaaaababababababaaaaaaaaacadadadadadadadadadadaeaeaeaeaeaeaeajaeafaeaeae
+aaaVaUabaaaaababababababaDabacacaWadadadadadadadadadadaeaeaeaeaeaeaeaeafafaeaeae
+aXaVaUabababababababababaDabababacacadadadadadahadadadaeaeaeaeaeaeaeaeafafaeaeae
+aXaVaVaUababababababababaDababacacacadadadadadadadadadaeaeaeaeaeaeaeaeafafafaeae
+aaaVaVaUababababababababaEababacaaacadadadadadadadadadaeaeaeaeaeaeaeaeafafafaeae
+aaaVaVaUababababaaaDaDaDaaabababaaaaacadadadadadadadadajaeaeaeaeaeafaeafafafaeae
+aaaUaUababababababababababababaaaaaaacadaiadadadadadadadaeaeaeaeafafafaeafafaeae
+aaaaababababababababababababababacacacadadadadadadadadadaeaeaeafafafafaeafafaeae
+aaaaaaababaaaaababababababababababacacadadadadadadadadadaeaeaeafafafafaeafafafaP
+aaaaaaaaabaaaaaaaaababababababababacacadadadadadaiadadadaeaeaeafafagafaeaeafafaf
+aaaaaaaaaaaaaaaaaaaaabababababababacacadadadadadadadadadaeaeaeafafafafafafafafaf
+aaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaadadadadadadadadadadaeaeaeafafafafafafafaYaf
+aaaaaaaaaaaaaaaaaaaaaaaaaaababacacaaaaadadadadadadadadaeaeaeaeafafafafafafafaYaY
+aaaaaaaaaaaaaaaaaaaaaaaaaaababacacaaadadadadadadadadadaeaeaeaeafafafafafafaYaYaY
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaabacacacadadadadadahadadadaeaZaZaeafagafafafaYaYaYaf
+aaaaaaaaaaaaaaaaaaaaaaaaaaababacacadaiadadadadadadadadadaZaZaeafafafafaYaYaYaYaY
+aaaaaaaaaaaaaaaaaaaaaaaaababacacadadadadadadadadadadadadaeaeaeaeafafafafafafaYaf
+"}

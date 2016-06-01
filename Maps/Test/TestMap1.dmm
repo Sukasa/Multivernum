@@ -1,0 +1,146 @@
+"aa" = (/turf/Flats/Grass,/area)
+"ab" = (/turf/Flats/Road,/area)
+"ac" = (/obj/Tree{tag = "icon-Tree2"; icon_state = "Tree2"},/turf/Flats/Grass,/area)
+"ad" = (/obj/Tree{tag = "icon-Tree4"; icon_state = "Tree4"},/turf/Flats/Grass,/area)
+"ae" = (/turf/Flats/Water{tag = "icon-Water2"; icon_state = "Water2"},/area)
+"af" = (/turf/Flats/Water{tag = "icon-Water3"; icon_state = "Water3"},/area)
+"ag" = (/obj/Tree{tag = "icon-Tree10"; icon_state = "Tree10"},/turf/Flats/Grass,/area)
+"ah" = (/obj/MapMarker/PlayerStart,/turf/Flats/Road,/area)
+"ai" = (/obj/MapMarker/PlayerStart,/turf/Flats/Grass,/area)
+"aj" = (/obj/Tree{tag = "icon-Tree9"; icon_state = "Tree9"},/turf/Flats/Grass,/area)
+"ak" = (/obj/Tree{tag = "icon-Tree2"; icon_state = "Tree2"},/obj/Tree{tag = "icon-Tree9"; icon_state = "Tree9"},/turf/Flats/Grass,/area)
+"al" = (/turf/RockWall,/area)
+"am" = (/obj/Decoration/Floor/TownDecorations/Grave,/turf/Flats/Grass,/area)
+"an" = (/turf/Flats/Rock,/area)
+"ao" = (/turf/Flats/Farmland{tag = "icon-Farm4"; icon_state = "Farm4"},/area)
+"ap" = (/obj/Decoration/Floor/TownDecorations/Scarecrow,/turf/Flats/Grass,/area)
+"aq" = (/turf/Flats/Farmland{tag = "icon-Farm5"; icon_state = "Farm5"},/area)
+"ar" = (/obj/Decoration/Floor/TownDecorations/Scarecrow{tag = "icon-Scarecrow (EAST)"; icon_state = "Scarecrow"; dir = 4},/turf/Flats/Grass,/area)
+"as" = (/obj/Decoration/Floor/Remains{tag = "icon-Remains8 (NORTH)"; icon_state = "Remains8"},/turf/Flats/Rock,/area)
+"at" = (/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"au" = (/obj/Decoration/Floor/Remains{tag = "icon-Remains8 (NORTH)"; icon_state = "Remains8"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"av" = (/turf/Flats/Farmland,/area)
+"aw" = (/turf/Flats/Rock,/turf/Flats/Grass,/area)
+"ax" = (/obj/Decoration/Floor/TownDecorations/Well,/turf/Flats/Grass,/area)
+"ay" = (/obj/Decoration/Floor/Remains{tag = "icon-Remains2 (NORTH)"; icon_state = "Remains2"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"az" = (/turf/Flats/Rock{tag = "icon-Lava2"; icon_state = "Lava2"},/area)
+"aA" = (/obj/Decoration/Floor/Remains{tag = "icon-SkullPile (NORTH)"; icon_state = "SkullPile"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"aB" = (/turf/Flats/Farmland{tag = "icon-Farm2"; icon_state = "Farm2"},/area)
+"aC" = (/obj/Wall/Stone,/turf/Flats/Rock,/area)
+"aD" = (/obj/Decoration/Floor/TownDecorations/ArcheryTarget,/turf/Flats/Rock,/area)
+"aE" = (/obj/Storage/Barrel{tag = "icon-Barrel4 (NORTH)"; icon_state = "Barrel4"},/turf/Flats/Rock,/area)
+"aF" = (/obj/Decoration/Floor/Rack{tag = "icon-Arms4 (NORTH)"; icon_state = "Arms4"},/turf/Flats/Rock,/area)
+"aG" = (/obj/Storage/Barrel{tag = "icon-Barrel5 (NORTH)"; icon_state = "Barrel5"},/turf/Flats/Rock,/area)
+"aH" = (/obj/Decoration/Floor/Remains,/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"aI" = (/obj/Decoration/Floor/Table,/turf/Flats/Rock,/area)
+"aJ" = (/obj/Wall/Stone,/obj/Storage/Barrel{tag = "icon-Barrel4 (NORTH)"; icon_state = "Barrel4"},/turf/Flats/Rock,/area)
+"aK" = (/obj/Decoration/Floor/TownDecorations/Spill,/turf/Flats/Rock,/area)
+"aL" = (/obj/Door/Closed/Stone,/turf/Flats/Rock,/area)
+"aM" = (/obj/Wall/Stone,/obj/Storage/Barrel{tag = "icon-Barrel5 (NORTH)"; icon_state = "Barrel5"},/turf/Flats/Rock,/area)
+"aN" = (/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"aO" = (/obj/Decoration/Floor/Remains{tag = "icon-Remains3 (NORTH)"; icon_state = "Remains3"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"aP" = (/obj/Storage/Barrel{tag = "icon-Barrels (NORTH)"; icon_state = "Barrels"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"aQ" = (/obj/Storage/Crate{tag = "icon-Crate5 (NORTH)"; icon_state = "Crate5"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"aR" = (/obj/Storage/Crate{tag = "icon-Crates3 (NORTH)"; icon_state = "Crates3"},/turf/Flats/Rock,/area)
+"aS" = (/obj/Storage/Crate{tag = "icon-Crates3 (NORTH)"; icon_state = "Crates3"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"aT" = (/obj/Decoration/Floor/Bed{tag = "icon-Bed3a (EAST)"; icon_state = "Bed3a"; dir = 4},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"aU" = (/obj/Storage/Crate{tag = "icon-Crates2 (NORTH)"; icon_state = "Crates2"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"aV" = (/obj/Decoration/Floor/Bed{tag = "icon-Bed3b (EAST)"; icon_state = "Bed3b"; dir = 4},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"aW" = (/obj/Decoration/Floor/Remains{tag = "icon-HangingSkulls (NORTH)"; icon_state = "HangingSkulls"},/turf/Flats/Rock,/area)
+"aX" = (/obj/Wall/Stone,/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"aY" = (/obj/Door/Open/Stone,/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"aZ" = (/obj/Decoration/Floor/Bed{tag = "icon-Bed4a (NORTH)"; icon_state = "Bed4a"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"ba" = (/obj/Decoration/Floor/Bed{tag = "icon-Bed4b (NORTH)"; icon_state = "Bed4b"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"bb" = (/obj/Decoration/Floor/Remains{tag = "icon-Remains5 (NORTH)"; icon_state = "Remains5"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bc" = (/obj/Storage/Barrel{tag = "icon-Barrel6 (NORTH)"; icon_state = "Barrel6"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"bd" = (/obj/Storage/Chest{icon_state = "SmashedChest"; name = "Smashed Chest"; Smashed = 1; tag = "icon-SmashedChest (NORTH)"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"be" = (/obj/Decoration/Floor/Table{tag = "icon-Table9 (NORTH)"; icon_state = "Table9"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"bf" = (/obj/Decoration/Floor/Remains{tag = "icon-BonePillar (NORTH)"; icon_state = "BonePillar"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bg" = (/obj/Storage/Chest,/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bh" = (/obj/Wall/Stone,/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bi" = (/obj/Wall/Stone,/obj/Storage/Crate{tag = "icon-Crates2 (NORTH)"; icon_state = "Crates2"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bj" = (/obj/Wall/Stone,/obj/Storage/Crate{tag = "icon-Crates2 (NORTH)"; icon_state = "Crates2"},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"bk" = (/obj/Decoration/Floor/TownDecorations/Fountain,/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"bl" = (/obj/Storage/Crate{tag = "icon-Crate6 (NORTH)"; icon_state = "Crate6"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bm" = (/turf/Flats/Sigil,/area)
+"bn" = (/obj/Decoration/Floor/Table{tag = "icon-Table8 (NORTH)"; icon_state = "Table8"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bo" = (/obj/Decoration/Floor/Table{tag = "icon-Table2 (NORTH)"; icon_state = "Table2"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bp" = (/obj/Decoration/Floor/Rack{tag = "icon-Arms3"; icon_state = "Arms3"; dir = 2},/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"bq" = (/turf/Flats/Lava,/turf/Flats/ArcanaPool,/area)
+"br" = (/turf/Flats/Lava,/area)
+"bs" = (/obj/Decoration/Floor/TownDecorations/Campfire,/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bt" = (/obj/Door/Secret/Stone,/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+"bu" = (/obj/Decoration/Floor/TownDecorations/Spill,/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bv" = (/obj/Decoration/Floor/Table{tag = "icon-Table3 (NORTH)"; icon_state = "Table3"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bw" = (/obj/Decoration/Floor/Table{tag = "icon-Table4 (NORTH)"; icon_state = "Table4"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bx" = (/obj/Decoration/Floor/Table{tag = "icon-Table3"; icon_state = "Table3"; dir = 2},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"by" = (/obj/Door/Secret/Stone,/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bz" = (/obj/Storage/Crate{tag = "icon-Crates3 (NORTH)"; icon_state = "Crates3"},/turf/Flats/Rock{tag = "icon-Rock2"; icon_state = "Rock2"},/area)
+"bA" = (/obj/Storage/Crate{tag = "icon-Crates1 (NORTH)"; icon_state = "Crates1"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"bB" = (/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"bC" = (/obj/Wall/Stone,/obj/Storage/Crate{tag = "icon-Crates2 (NORTH)"; icon_state = "Crates2"},/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"bD" = (/obj/Wall/Stone,/turf/Flats/Rock{tag = "icon-Rock4"; icon_state = "Rock4"},/area)
+"bE" = (/obj/Wall/Stone,/turf/Flats/Rock{tag = "icon-Lava1"; icon_state = "Lava1"},/area)
+"bF" = (/obj/Door/Secret/Stone,/turf/Flats/Rock{tag = "icon-Lava1"; icon_state = "Lava1"},/area)
+"bG" = (/turf/Flats/Rock{tag = "icon-Lava1"; icon_state = "Lava1"},/area)
+"bH" = (/obj/Storage/Crate{tag = "icon-Crate5 (NORTH)"; icon_state = "Crate5"},/turf/Flats/Rock,/area)
+"bI" = (/obj/Storage/Crate{tag = "icon-Crate2 (NORTH)"; icon_state = "Crate2"},/turf/Flats/Rock,/area)
+"bJ" = (/obj/Storage/Crate{tag = "icon-Crate3 (NORTH)"; icon_state = "Crate3"},/turf/Flats/Rock,/area)
+"bK" = (/obj/Storage/Crate{tag = "icon-Crates2 (NORTH)"; icon_state = "Crates2"},/turf/Flats/Rock,/area)
+"bL" = (/obj/Wall/Stone,/turf/Flats/Rock{tag = "icon-Lava2"; icon_state = "Lava2"},/area)
+"bM" = (/obj/Door/Secret/Stone,/turf/Flats/Rock{tag = "icon-Lava2"; icon_state = "Lava2"},/area)
+"bN" = (/obj/Wall/Stone,/turf/Flats/Lava,/area)
+"bO" = (/obj/Storage/Chest,/turf/Flats/Rock{tag = "icon-Rock3"; icon_state = "Rock3"},/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaabaaaaaaacacacacacadacacadacacadacacadacacaaababaaaaacaeaeaeafafafafafafafafafafafafafaf
+aaaaaaaaaaagabaaaaadaaaaacadacacacacadacacadacacadadacabaaahaaabaaaeaeaeafafafafafafafafafafafafafaf
+aaaaaaaaaaaaabaaaaabaaadaaaaacadadacadacadadacacadacacaaaiahahabaaaeaeaeaeafafafafafafafafafafafafaf
+aaaaaaaaaaaaaaabababaaaaaaadaaacacacadacacajacadacacadacaaahaaaaaaaeaeaeaeafafafafafafafafafafafafaf
+aaaaaaaaaaaaaaaaaaababaaaaadaaaaadacacacacadadadacacacadaaabaaaaaaaeaeaeaeaeaeafafafafafafafafafafaf
+aaaaaaaaaaaaaaaaaaababaaabababaaaaaaaaaaacadacacadacajaaaaabababaaaeaeaeaeaeaeaeaeafafafafafafafafaf
+aaaaaaaaaaaaaaaaaaaaaaaaabababaaababaaaaaaacacacacacaaaaaaaaababaaaeaeaeaeaeaeaeaeaeafafafafafafafaf
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaadaaakaaaaaaabaaaaaeaeaeaeaeaeaeaeaeafafafafafafafaf
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaabaaaaaaaaaaaaaeaeaeaeaeafafafafafafafaf
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaaaaabagabaaabababaaababaaababaaacaaaaaeaeaeaeaeaeafafafafafafaf
+aaaaaaaaaaalaaaaaaaaaaaaamaaaaaaaaaaaaaaaaaaaaaaabaaabababaaababaaaaaaaaaaaeaeaeaeaeaeaeaeaeaeafafaf
+aaaaaaaaalalalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaaaaaaaaababababaaaaaaaaaaaeaeaeaeaeaeaeaeaeaeaeaeae
+aaaaaaaaalalalalalanalaaamaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaacaaaeaeaeaeaeaeaeaeaeaeae
+alalalalalalalalalanalalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaaaaaaoaoaaaeaeaeaeaeaeaeaeaeaeae
+alalalalalalalalalanalalaaaaaaaaaaalalaaaaaaaaaaaaalaaaoaoaoapaaababaaaaaoaoaoaaaaaaaaaeaeaeaeaeaeae
+alalalalalalalalalananalalalalalalalalalalalalalalalalalaqaqaqabaaabaaaaaraoaoaaaaaaaaaaaaaaaaaaaaaa
+alalalalalalalalalalanasananalalalalalalalalalalalalalalaqaqaqaqabababaaaaaaaaaaaaaaalalalalalalalal
+atalalauatalalalalalalanananalalanananalalalalalalalalalalalalavaaabaaaaawaaaxaaaaaaalalalalalalalal
+atalalatatatalalalalalanananalalananananananananalalalalalalalavabababaaalaaaaaaalalalalalalalalalal
+atalalatayazanalaAalalalananananananananananananalalalalalalalaBabaaabaaalaaaaaaalalalalalalalalalal
+atalalalatatanalatanalalalananananananananalalanalalalalalalalaaabaaaaaaalalalalalalalalalalalalalal
+atatalalatatalalatalalalalananaCaCaCaCaCaCanalananaDanaDanaEanananananananaFaGananalalalalalalalalal
+alatalalalatalalazalalalalananaCananaFaFaCananananananananaDanananananananananananalalalalalalalalal
+alalalayaHazalalaHatalalalananaCanaIananaJananananananananananananananananananananalalalalalalalalal
+alalalayaHatanalatatalalalananaCananananaCanananananananananananananalananananalalalalalalalalalalal
+alalalalaHatazalalatalalalananaCananananaJanananaKanananalananalanananananananalalalalalalalalalalal
+alalalalauazatatataHalalalananaCaCaCaLaMaCananananananananaNanananananananananalalalalalalalalalalal
+alaOalalatatatalatatatalalananananananananananaNanaNaNananaNanaNanaNaNananaNaPalalalalalalalalalalal
+alazaHatatatalalalatatalalananananananananananaNanaNaNaNaNaNaNaNaNaNaNaQanaRaSaNaTaNalalalalalalalal
+alanatatatalalalalalatalalanananananalanaNanaNanaNanaNaNaQanaNaNaNaNanaNaNaPaUaNaVaNalalalalalalalal
+alalalalalalalalaOatatatalaWanaNanaNaNaNanaNaNaXaXaXaXaXaXaXaXaXaYaXaXaXaXaXaZbaaNaNalalalalalalalal
+alalalalalalalbbazatalatalanaNaNaNanaNananaNaNaXbcaPaNaNaNbdbeaNaNaNaNaNaNaYaNaNaNaNalalalalalalalal
+alalalatauatalazbfatalatananalanaNanaNaNaNaNaNaXaNaNaNaNaNaNaNaNaNaNaNaNaNaXaZbaaNaNalalalalalalalal
+alalalbgazatatatatatalalalalalbhbhbhbibhbhaXbjaXaNaNaNaNaNaNaNaNaNaNbkaNaNaXaNaNaNaNalalalalalalalal
+alalalatazanalalalatatalalblatatatatatatatatataXaNaNatbmatatbmataNaNaNaNaNaXaZbaaNaNalalalalalalalal
+alalalazatazalalalalalalalbnatatboatboatboatataXaNaNbpatbqbqataNaNaNaNaNaNaXaXaXaXaXalalalalalalalal
+alalalazazazazbralalalalalbsatatatatatatatatataXaNaNbpatbqbqataNaNaNaNaNaNbtaNaNaNaNalalalalalalalal
+alalalbrbrbrbrbralalalalalbsatatatatatatatatataXaNaNbpatbqbqataNaNaNaXaXaXaXaNaNaNaNalalalalalalalal
+alalalbrbrbrbrbrbralalalalbuatatbvbwbwbwbxatataXaNaNbpatbqbqataNaNbcaXaNaNaNaNaNaNaNaNaNaNalalalalal
+alalalbrbrbrbrbrbralalalalbhbybhbzatatatatatataYaNaNatbmatatbmataNaPaXaNaNaNaNaNaNaNaNaNaNalalalalal
+alalalbrbrbrbrbrbrbralalalbAbBbCbDbEbEbEbEbEbEaXaNaNaNaNaNaNaNaNaNaNaXaNaNazazaNananaNaNaNalalalalal
+alalalbrbrbrbrbrbrbrbralalbAbBbBbBbFbGbGbGbGbGaXaNaNaNaNaNaNaNaNaPaNbtaNaNazazaNalalalalalalalalalal
+alalalbrbrbrbrbrbrbrbralalbHbIbJbKbEbGbGbGbGbGaXaXaXaXbtaXaXaXaXbLbLbLazaNazazaNalalalalalalalalalal
+alalalbrbrbrbrbrbrbrbrbralalalalalalbrbrbrbGbGbMazaNaNaNaNaNaNaNazbrbrazaNazazaNalalalalalalalalalal
+alalalalbrbrbrbrbrbrbrbralalalalalalbrbrbrbGbGbNazaNaNazaNazaNaNazbrbrazaNazazaNalalalalalalalalalal
+alalalalbrbrbrbrbrbrbrbralbrbrbrbrbrbrbrbrbrbrbrazazazaNaNaNaNazazbrbrazaNaNaNaNalalalalalalalalalal
+alalalalalalalbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrazaNazaNazazbrbrbrazaNaNazazalalalalalalalalalal
+alalalalalalalbrbrbralbrbrbrbralalalalalalbrbrbrbrbrazaNaNaNaNazbrbrazazaNaNazazalalalalalalalalalal
+alalalalalalalalalalalalalbrbralalalalalalbrbrbrbrbrazbOaNaNaNazazazazaNaNazazazalalalalalalalalalal
+alalalalalalalalalalalalalbrbralalalalalalbrbrbrbrbrazaNaNazazaNaNaNaNaNaNaNazazalalalalalalalalalal
+"}

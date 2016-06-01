@@ -1,15 +1,24 @@
 /turf
+	MovementAllowFlags = ALLOW_ALL
+	mouse_opacity = 0
 
-	var
-		DensityFlags = 0	// Wall flags.  Use NORTH/SOUTH/WEST/EAST as necessary.  A set flag means you can't walk into/off the tile on that edge,
-							// but you can still cast spells through it
+	proc
+		GetMovementFlags()
+			. = MovementAllowFlags
+			for(var/atom/A in src.contents)
+				. &= A.MovementAllowFlags
 
-	Enter(var/atom/movable/AM, var/atom/OldLoc)
-		if (OldLoc in range(1, src) && DensityFlags & get_dir(src, OldLoc))
-			return 0
-		return 1
+	Bake()
+		if (density)
+			MovementAllowFlags = ALLOW_BASE
+		FogOfWar()
 
-	Exit(var/atom/movable/AM, var/atom/NewLoc)
-		if (NewLoc in range(1, src) && DensityFlags & get_dir(src, NewLoc))
-			return 0
-		return 1
+	Enter(var/atom/movable/A)
+		if (ismob(A))
+			var/mob/M = A
+			var/datum/Component/Mob/Movement/MV = M.GetComponent(/datum/Component/Mob/Movement)
+			if (!MV)
+				return 0
+			. = MV.MovementFlags & GetMovementFlags()
+		else
+			. = ..()

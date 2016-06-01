@@ -3,16 +3,20 @@
  */
 
 world
-	fps = 25		// 25 frames per second
-	icon_size = 56	// 32x32 icon size by default
+	fps = 17
+	icon_size = 56
 	map_format = ISOMETRIC_MAP
-	view = 9		// show up to 9 tiles outward from center (19x19 view)
+	view = 9
+	mob = /mob/Playable/Fighter
 
+atom/movable
+	glide_size = 56
 
-// Make objects move 8 pixels per tick when walking
+var
+	SoundController/Audio
+	MapLoader/Maps
+	EventController/Events
+	IsDevMode = FALSE
 
-mob
-	step_size = 8
-
-obj
-	step_size = 8
+	list
+		Clients = list( )

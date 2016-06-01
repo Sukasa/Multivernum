@@ -15,6 +15,9 @@
 		Carpet
 			icon_state = "Carpet"
 
+		Sigil
+			icon_state = "Sigil"
+
 		Wetlands
 			icon_state = "Wetlands1"
 
