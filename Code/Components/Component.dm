@@ -1,2 +1,2 @@
-/datum/Component
-	// Base component class for mob components
+/datum/Component/
+	// Base component class for components

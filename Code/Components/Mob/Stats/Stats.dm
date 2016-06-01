@@ -1,0 +1,2 @@
+/datum/Component/Mob/Stats
+	// Stats component.  Figures out the active max stats for a mob based on their armour, weapons, buffs/debuffs, level, etc.  Also tracks the current values for HP, SP, AP, etc.
